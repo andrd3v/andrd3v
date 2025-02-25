@@ -1,5 +1,5 @@
 # 💫 About Me:
-OS X и iOS Kernel Programming 🖥️🔧<br>AppSec & iOS Perimeter Security 🔒📱<br>iOS Development 📲💻<br>Pwner 💥🎯<br>InfoSec🛡️🔍<br>obj-c++ 
+<br>AppSec & iOS Perimeter Security 🔒📱<br>iOS Development 📲💻<br>InfoSec🛡️🔍<br>obj-c++ 
 
 
 # 💻 Tech Stack:
