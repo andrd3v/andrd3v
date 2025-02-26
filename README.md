@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>AppSec & iOS Perimeter Security 🔒📱<br>iOS Development 📲💻<br>InfoSec🛡️🔍<br>obj-c++ 
+iOS Development and InfoSec📲💻<br>InfoSec🛡️🔍<br>obj-c++ 
 
 
 # 💻 Tech Stack:
