@@ -1,5 +1,5 @@
 # 💫 About Me:
-iOS Development and InfoSec📲💻<br>InfoSec🛡️🔍<br>obj-c++ 
+iOS Development and InfoSec📲💻<br>obj-c++ 
 
 
 # 💻 Tech Stack:
