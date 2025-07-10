@@ -1,6 +1,6 @@
 # 💫 About Me:
 iOS Development and InfoSec 📲💻  
-C / Objective-C enthusiast
+C / Objective-C / Swift enthusiast
 
 ---
 
