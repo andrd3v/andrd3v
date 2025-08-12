@@ -1,6 +1,9 @@
 <p align="center">
-  <img src="https://github.com/andrd3v/andrd3v/blob/main/1.jpg" alt="Banner" width="100%">
+  <img src="https://github.com/andrd3v/andrd3v/blob/main/1.jpg" 
+       alt="Banner" 
+       style="width:70%; object-fit:cover; height:200px; object-position:center;">
 </p>
+
 
 
 <div align="center">
