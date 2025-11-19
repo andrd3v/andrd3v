@@ -5,11 +5,11 @@ I’m an iOS developer and security enthusiast with a passion for reverse engine
 ---
 
 ```txt
-C             3 hrs 12 mins   ████████████████▓░░░░░░░░   61.45 %
-Objective-C   1 hr 18 mins    ██████▓░░░░░░░░░░░░░░░░░░   25.12 %
-Assembly      28 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   09.08 %
-Other         7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
-Makefile      1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
+C             3 hrs 12 mins   ██████████████████▓░░░░░░   68.82 %
+Objective-C   1 hr 18 mins    ██████████░░░░░░░░░░░░░░░   27.96 %
+Assembly      1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+Other         7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
+Makefile      1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
 ```
 
 
