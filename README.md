@@ -1,9 +1,18 @@
 <h1 align="center">andrd3v</h1>
-I’m an iOS and mac os x security enthusiast with a passion for reverse engineering and low-level programming in C. I enjoy digging into private APIs, exploring system internals, and building tools for research. I mainly write code in **C** and **Objective-C**, focusing on low-level tools. You can reach me at **xqandr@yandex.ru**, or **[@andrd3v](https://t.me/andrd3v)** on Telegram.
+
+<p align="center">
+  I’m an iOS and macOS security enthusiast with a passion for reverse engineering and low-level programming in C.
+  I enjoy digging into private APIs, exploring system internals, and building tools for research.
+  I mainly write code in <b>C</b> and <b>Objective-C</b>, focusing on low-level tools.
+</p>
+
+<p align="center">
+  Reach me at <b>xqandr@yandex.ru</b> • <a href="https://t.me/andrd3v"><b>@andrd3v</b></a>
+</p>
 
 ---
 
-```txt
+```text
 C             0 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   0 %
 Objective-C   0 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   0 %
 Assembly      0 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   0 %
