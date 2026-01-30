@@ -1,10 +1,7 @@
 <h1 align="center">Ilya Andr</h1>
 
 <p align="center">
-  I’m an iOS and macOS security engineer with a background in reverse engineering and low-level programming.
-  I work with system internals and private APIs, and build tools that turn research into practical products.
-  Recently, I’ve been focusing on startup-oriented development, including applied machine learning and LLM-based systems.
-  I mainly write code in <b>C</b>, <b>Swift</b> and <b>Objective-C</b>, with an emphasis on low-level and infrastructure tooling.
+I’m an iOS and macOS security engineer with a background in reverse engineering and low-level programming. I work with system internals and private APIs, and build tooling that turns research into practical, maintainable systems. I mainly write code in <br>C</br>, <br>Swift<br>, and <br>Objective-C</br>, with an emphasis on low-level and infrastructure work.
 </p>
 
 <p align="center">
