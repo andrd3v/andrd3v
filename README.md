@@ -20,5 +20,3 @@ Makefile      0 min           ░░░░░░░░░░░░░░░░�
 
 
 ---
-
-> _"Code is like humor. When you have to explain it, it’s bad."_ — **Cory House**
