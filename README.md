@@ -5,11 +5,10 @@ I’m an iOS and macOS security engineer with a background in reverse engineerin
 </p>
 
 <p align="center">
-  <a href="https://andrd3v.github.io"><img src="https://img.shields.io/badge/Website-andrd3v.github.io-000000?style=flat-square&logo=githubpages&logoColor=white"></a>
-  <a href="https://t.me/andrd3v"><img src="https://img.shields.io/badge/Telegram-%40andrd3v-2CA5E0?style=flat-square&logo=telegram&logoColor=white"></a>
-  <a href="https://x.com/andrd3v"><img src="https://img.shields.io/badge/X-%40andrd3v-000000?style=flat-square&logo=x&logoColor=white"></a>
-  <a href="https://linkedin.com/in/andrd3v"><img src="https://img.shields.io/badge/LinkedIn-andrd3v-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:xqandr@yandex.ru"><img src="https://img.shields.io/badge/Email-xqandr%40yandex.ru-D44638?style=flat-square&logo=maildotru&logoColor=white"></a>
+  <a href="https://andrd3v.github.io"><img src="https://img.shields.io/badge/-_-000?style=flat-square&logo=githubpages&logoColor=white&label=%20" height="28"></a>
+  <a href="https://t.me/andrd3v"><img src="https://img.shields.io/badge/-_-2CA5E0?style=flat-square&logo=telegram&logoColor=white&label=%20" height="28"></a>
+  <a href="https://x.com/andrd3v"><img src="https://img.shields.io/badge/-_-000?style=flat-square&logo=x&logoColor=white&label=%20" height="28"></a>
+  <a href="https://linkedin.com/in/andrd3v"><img src="https://img.shields.io/badge/-_-0A66C2?style=flat-square&logo=linkedin&logoColor=white&label=%20" height="28"></a>
 </p>
 
 ---
