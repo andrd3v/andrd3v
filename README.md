@@ -5,7 +5,9 @@ I’m an iOS and macOS security engineer with a background in reverse engineerin
 </p>
 
 <p align="center">
-  <b>xqandr@yandex.ru</b> • <a href="https://andrd3v.github.io"><b>@andrd3v</b></a>
+  <a href="https://andrd3v.github.io"><img src="https://img.shields.io/badge/Website-andrd3v.github.io-000000?style=flat-square&logo=githubpages&logoColor=white"></a>
+  <a href="mailto:xqandr@yandex.ru"><img src="https://img.shields.io/badge/Email-xqandr%40yandex.ru-red?style=flat-square&logo=maildotru&logoColor=white"></a>
+  <a href="https://t.me/andrd3v"><img src="https://img.shields.io/badge/Telegram-%40andrd3v-2CA5E0?style=flat-square&logo=telegram&logoColor=white"></a>
 </p>
 
 ---
