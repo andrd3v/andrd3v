@@ -5,7 +5,7 @@ I’m an iOS and macOS security engineer with a background in reverse engineerin
 </p>
 
 <p align="center">
-  <b>xqandr@yandex.ru</b> • <a href="https://t.me/andrd3v"><b>@andrd3v</b></a>
+  <b>xqandr@yandex.ru</b> • <a href="https://andrd3v.github.io"><b>@andrd3v</b></a>
 </p>
 
 ---
