@@ -1,7 +1,7 @@
 <h1 align="center">Ilya Andr</h1>
 
 <p align="center">
-I’m an iOS and macOS security engineer with a background in reverse engineering and low-level programming. I work with system internals and private APIs, and build tooling that turns research into practical, maintainable systems. I mainly write code in <b>Objective-C</b>, with an emphasis on low-level and infrastructure work.
+iOS and macOS security engineer focused on reverse engineering, vulnerability research, and low-level programming. I work with system internals and private APIs, and build tooling that turns research into practical results. Mainly writing <b>Objective-C</b>.
 </p>
 
 <p align="center">
@@ -11,6 +11,14 @@ I’m an iOS and macOS security engineer with a background in reverse engineerin
   <a href="https://linkedin.com/in/andrd3v"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:xqandr@yandex.ru"><img src="https://img.shields.io/badge/-Email-D44638?style=for-the-badge&logo=maildotru&logoColor=white"></a>
 </p>
+
+---
+
+### CVEs
+
+| CVE | Impact | Advisories |
+|-----|--------|------------|
+| CVE-2026-28882 | Installed app enumeration | [iOS](https://support.apple.com/126792) · [macOS](https://support.apple.com/126794) · [watchOS](https://support.apple.com/126798) · [tvOS](https://support.apple.com/126797) · [visionOS](https://support.apple.com/126799) |
 
 ---
 
