@@ -22,7 +22,6 @@ Apple platform security engineer focused on reverse engineering, vulnerability r
 <th width="160">CVE</th>
 <th width="280">Impact</th>
 <th width="350">Advisories</th>
-<th width="90">CVSS</th>
 </tr>
 </thead>
 <tbody>
@@ -30,7 +29,6 @@ Apple platform security engineer focused on reverse engineering, vulnerability r
 <td>CVE-2026-28882</td>
 <td>Installed app and running process enumeration</td>
 <td><a href="https://support.apple.com/126792">iOS</a> · <a href="https://support.apple.com/126794">macOS</a> · <a href="https://support.apple.com/126798">watchOS</a> · <a href="https://support.apple.com/126797">tvOS</a> · <a href="https://support.apple.com/126799">visionOS</a></td>
-<td>4.0 Medium</td>
 </tr>
 </tbody>
 </table>
