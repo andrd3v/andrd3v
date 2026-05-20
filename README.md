@@ -19,10 +19,10 @@ iOS and macOS security engineer focused on reverse engineering, vulnerability re
 <table>
 <thead>
 <tr>
-<th width="180">CVE</th>
-<th width="300">Impact</th>
-<th width="280">Advisories</th>
-<th width="120">CVSS</th>
+<th width="160">CVE</th>
+<th width="280">Impact</th>
+<th width="350">Advisories</th>
+<th width="90">CVSS</th>
 </tr>
 </thead>
 <tbody>
