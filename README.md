@@ -19,9 +19,10 @@ iOS and macOS security engineer focused on reverse engineering, vulnerability re
 <table>
 <thead>
 <tr>
-<th width="200">CVE</th>
-<th width="340">Impact</th>
-<th width="340">Advisories</th>
+<th width="180">CVE</th>
+<th width="300">Impact</th>
+<th width="280">Advisories</th>
+<th width="120">CVSS</th>
 </tr>
 </thead>
 <tbody>
@@ -29,6 +30,7 @@ iOS and macOS security engineer focused on reverse engineering, vulnerability re
 <td>CVE-2026-28882</td>
 <td>Installed app and running process enumeration</td>
 <td><a href="https://support.apple.com/126792">iOS</a> · <a href="https://support.apple.com/126794">macOS</a> · <a href="https://support.apple.com/126798">watchOS</a> · <a href="https://support.apple.com/126797">tvOS</a> · <a href="https://support.apple.com/126799">visionOS</a></td>
+<td>4.0 Medium</td>
 </tr>
 </tbody>
 </table>
