@@ -14,11 +14,24 @@ iOS and macOS security engineer focused on reverse engineering, vulnerability re
 
 ---
 
-### CVEs
+<h3 align="center">CVEs</h3>
 
-| CVE | Impact | Advisories |
-|-----|--------|------------|
-| CVE-2026-28882 | Installed app enumeration | [iOS](https://support.apple.com/126792) · [macOS](https://support.apple.com/126794) · [watchOS](https://support.apple.com/126798) · [tvOS](https://support.apple.com/126797) · [visionOS](https://support.apple.com/126799) |
+<table width="100%">
+<thead>
+<tr>
+<th>CVE</th>
+<th>Impact</th>
+<th>Advisories</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>CVE-2026-28882</td>
+<td>Installed app enumeration</td>
+<td><a href="https://support.apple.com/126792">iOS</a> · <a href="https://support.apple.com/126794">macOS</a> · <a href="https://support.apple.com/126798">watchOS</a> · <a href="https://support.apple.com/126797">tvOS</a> · <a href="https://support.apple.com/126799">visionOS</a></td>
+</tr>
+</tbody>
+</table>
 
 ---
 
