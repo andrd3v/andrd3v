@@ -8,7 +8,6 @@ Apple platform security engineer focused on reverse engineering, vulnerability r
   <a href="https://andrd3v.github.io"><img src="https://img.shields.io/badge/-Website-000000?style=for-the-badge&logo=githubpages&logoColor=white"></a>
   <a href="https://t.me/andrd3v"><img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
   <a href="https://x.com/andrd3v"><img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
-  <a href="https://linkedin.com/in/andrd3v"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:xqandr@yandex.ru"><img src="https://img.shields.io/badge/-Email-D44638?style=for-the-badge&logo=maildotru&logoColor=white"></a>
 </p>
 
