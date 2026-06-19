@@ -31,16 +31,3 @@ Writing exploits and tooling in <b>C</b> and <b>Objective-C</b>.
 </tr>
 </tbody>
 </table>
-
----
-
-```text
-C             0 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   0 %
-Objective-C   0 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   0 %
-Assembly      0 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   0 %
-Other         0 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   0 %
-Makefile      0 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   0 %
-```
-
-
----
