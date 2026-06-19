@@ -1,7 +1,7 @@
 <h1 align="center">Ilya Andr</h1>
 
 <p align="center">
-Apple platform security engineer focused on reverse engineering, vulnerability research, and low-level programming. I work with system internals and private APIs, and build tooling that turns research into practical results. Mainly writing <b>Objective-C</b>.
+Apple platform vulnerability researcher focused on reverse engineering, vulnerability research, and low-level programming. I work with system internals and private APIs, and build tooling that turns research into practical results. Mainly writing <b>Objective-C</b>.
 </p>
 
 <p align="center">
