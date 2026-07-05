@@ -1,7 +1,7 @@
 <h1 align="center">Ilya Andr</h1>
 
 <p align="center">
-Writing exploits and tooling in <b>C</b> and <b>Objective-C</b>.
+Writing exploits and tooling in <b>C</b> and <b>Objective-C</b>. Middle iOS R&D Engineer @ Positive Technologies.
 </p>
 
 <p align="center">
