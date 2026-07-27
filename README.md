@@ -13,21 +13,4 @@ Writing exploits and tooling in <b>C</b> and <b>Objective-C</b>. Middle iOS R&D 
 
 ---
 
-<h3 align="center">CVEs</h3>
-
-<table>
-<thead>
-<tr>
-<th width="160">CVE</th>
-<th width="280">Impact</th>
-<th width="350">Advisories</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>CVE-2026-28882</td>
-<td>Installed app and running process enumeration</td>
-<td><a href="https://support.apple.com/126792">iOS</a> · <a href="https://support.apple.com/126794">macOS</a> · <a href="https://support.apple.com/126798">watchOS</a> · <a href="https://support.apple.com/126797">tvOS</a> · <a href="https://support.apple.com/126799">visionOS</a></td>
-</tr>
-</tbody>
-</table>
+<h3 align="center"><a href="https://andrd3v.github.io/cves/">My CVEs</a></h3>
