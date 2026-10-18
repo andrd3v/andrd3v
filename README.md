@@ -17,7 +17,7 @@ Writing exploits and tooling in <b>C</b> and <b>Objective-C</b>. Middle iOS R&D 
 <h2 align="center"><a href="https://andrd3v.github.io/cves/">My CVEs</a></h2>
 
 <details>
-<summary><b>Projects ➤</b></summary>
+<summary><b>Projects</b></summary>
 <br>
 
 ### Security Research
@@ -58,8 +58,7 @@ Writing exploits and tooling in <b>C</b> and <b>Objective-C</b>. Middle iOS R&D 
 
 | Repository | Description |
 |:-----------|:-----------|
-| [Melatonin](https://github.com/andrd3v/Melatonin) | Fix overnight battery drain — 17 system-level interventions |
+| [Melatonin](https://github.com/andrd3v/Melatonin) | Fix overnight battery drain |
 | [FileWatcher](https://github.com/andrd3v/FileWatcher) | XPC daemon + client for Desktop file monitoring |
-| [homebrew-tap](https://github.com/andrd3v/homebrew-tap) | Homebrew tap for Melatonin |
 
 </details>
