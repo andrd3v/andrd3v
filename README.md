@@ -15,7 +15,7 @@ Writing exploits and tooling in <b>C</b> and <b>Objective-C</b>. Middle iOS R&D 
 ---
 
 <details>
-<summary><b>My CVEs</b></summary>
+<summary><b>My CVEs</b> — 12 Apple vulnerabilities reported via PT SWARM · <a href="https://andrd3v.github.io/cves/">full details</a></summary>
 <br>
 
 | CVE | Component | CVSS | Impact |
