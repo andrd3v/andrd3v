@@ -15,7 +15,7 @@ Writing exploits and tooling in <b>C</b> and <b>Objective-C</b>. Middle iOS R&D 
 ---
 
 <details>
-<summary><b>My CVEs ➤</b></summary>
+<summary><b>My CVEs</b></summary>
 <br>
 
 | CVE | Component | CVSS | Impact | Platforms |
