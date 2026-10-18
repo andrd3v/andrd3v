@@ -15,7 +15,7 @@ Writing exploits and tooling in <b>C</b> and <b>Objective-C</b>. Middle iOS R&D 
 ---
 
 <p align="center">
-  <a href="https://andrd3v.github.io"><b>Blog</b></a> — XPC exploitation, LPE writeups, Mach internals and iOS reverse engineering
+  <a href="https://andrd3v.github.io"><b>My Blog</b></a> - XPC exploitation, LPE writeups, Mach internals and iOS reverse engineering
 </p>
 
 ---
