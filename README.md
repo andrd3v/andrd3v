@@ -14,7 +14,26 @@ Writing exploits and tooling in <b>C</b> and <b>Objective-C</b>. Middle iOS R&D 
 
 ---
 
-<h2 align="center"><a href="https://andrd3v.github.io/cves/">My CVEs</a></h2>
+<details>
+<summary><b>My CVEs ➤</b></summary>
+<br>
+
+| CVE | Component | CVSS | Impact | Platforms |
+|:----|:----------|:----:|:-------|:----------|
+| CVE-2026-84625 | Sandbox Profiles | 9.1 | An app may be able to fingerprint the user | iOS, iPadOS, macOS, watchOS, visionOS |
+| CVE-2026-43783 | DesktopServices | 7.8 | A malicious app may be able to gain root privileges | macOS |
+| CVE-2026-84606 | iCloud | 7.5 | An app may be able to identify a user across reinstalls | iOS, iPadOS, macOS, visionOS |
+| CVE-2026-84623 | Power Management | 7.5 | An app may be able to fingerprint the device | iOS, iPadOS |
+| CVE-2026-43792 | Safari | 6.5 | An app may be able to access sensitive user data | macOS, Safari |
+| CVE-2026-43796 | Game Center | 5.5 | An app may be able to access sensitive user data | iOS, iPadOS, macOS, watchOS, tvOS, visionOS |
+| CVE-2026-43664 | Accessibility | 5.5 | An app may be able to access sensitive user data | iOS, iPadOS, macOS, watchOS, tvOS |
+| CVE-2026-86905 | Authentication Services | 5.5 | An app may be able to delete credentials stored in Keychain | iOS, iPadOS, macOS, visionOS |
+| CVE-2026-86878 | Camera | 5.5 | An app may be able to access sensitive user data | iOS, iPadOS |
+| CVE-2026-65345 | Storage | 5.5 | An app may be able to access user-sensitive data | iOS, iPadOS, macOS |
+| CVE-2026-28882 | libxpc | 4.0 | An app may be able to enumerate installed apps and running processes | iOS, iPadOS, macOS, watchOS, tvOS, visionOS |
+| — | Spotlight | — | Acknowledged for assistance (xattr manipulation outside app sandbox) | macOS |
+
+</details>
 
 <details>
 <summary><b>Projects</b></summary>
