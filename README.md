@@ -45,6 +45,7 @@ Writing exploits and tooling in <b>C</b> and <b>Objective-C</b>. Middle iOS R&D 
 | CVE-2026-86989 | MobileGestalt | — | An app may be able to fingerprint the user |
 | — | Spotlight | — | Acknowledged for assistance (xattr manipulation outside app sandbox) |
 | — | Sandbox Profiles | — | Acknowledged for assistance (iCloud account identifier leak) |
+| — | Photos Storage | — | Acknowledged for assistance |
 
 </details>
 
