@@ -27,6 +27,7 @@ Writing exploits and tooling in <b>C</b> and <b>Objective-C</b>. Middle iOS R&D 
 | CVE | Component | CVSS | Impact |
 |:----|:----------|:----:|:-------|
 | CVE-2026-84625 | Sandbox Profiles | 9.1 | An app may be able to fingerprint the user |
+| CVE-2026-86949 | Xcode | 8.8 | A malicious app may be able to break out of its sandbox |
 | CVE-2026-43783 | DesktopServices | 7.8 | A malicious app may be able to gain root privileges |
 | CVE-2026-84606 | iCloud | 7.5 | An app may be able to identify a user across reinstalls |
 | CVE-2026-84623 | Power Management | 7.5 | An app may be able to fingerprint the device |
@@ -37,7 +38,13 @@ Writing exploits and tooling in <b>C</b> and <b>Objective-C</b>. Middle iOS R&D 
 | CVE-2026-86878 | Camera | 5.5 | An app may be able to access sensitive user data |
 | CVE-2026-65345 | Storage | 5.5 | An app may be able to access user-sensitive data |
 | CVE-2026-28882 | libxpc | 4.0 | An app may be able to enumerate installed apps and running processes |
+| CVE-2026-86948 | App Store | — | A malicious app may be able to break out of its sandbox |
+| CVE-2026-86925 | QuickLook | — | An app may be able to access sensitive user data (all cached thumbnails) |
+| CVE-2026-113915 | MediaAnalysis | — | An app may be able to access sensitive user data (any media files) |
+| CVE-2026-112616 | Screen Time | — | An app may be able to access sensitive user data (browser history) |
+| CVE-2026-86989 | MobileGestalt | — | An app may be able to fingerprint the user |
 | — | Spotlight | — | Acknowledged for assistance (xattr manipulation outside app sandbox) |
+| — | Sandbox Profiles | — | Acknowledged for assistance (iCloud account identifier leak) |
 
 </details>
 
